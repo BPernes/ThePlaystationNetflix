@@ -46,7 +46,7 @@ header nav a:hover {
 
 .jogo-principal {
     font-size: 16px;
-    background: linear-gradient(rgba(0,0,0,.50), rgba(0,0,0,.50)100%),   url('/img/resident-evil-survivor-main.png');
+    background: linear-gradient(rgba(0,0,0,.50), rgba(0,0,0,.50)100%),   url('./background-img/resident-evil-survivor-main.png');
 
     height: 400px;
     background-size: cover;
@@ -113,7 +113,7 @@ header nav a:hover {
     display: flex;
     background: none;
     margin-left: 50px;
-    margin-bottom: none;
+    margin-bottom: 5px;
     font-size: 30px;
     color: rgb(250, 248, 248);
 }
@@ -123,7 +123,7 @@ header nav a:hover {
     display: flex;
     background: none;
     margin-left: 50px;
-    margin-bottom: none;
+    margin-bottom: 5px;
     font-size: 30px;
     color: rgb(250, 248, 248);
 }
@@ -133,7 +133,7 @@ header nav a:hover {
     display: flex;
     background: none;
     margin-left: 50px;
-    margin-bottom: none;
+    margin-bottom: 5px;
     font-size: 30px;
     color: rgb(250, 248, 248);
 }
